@@ -1,0 +1,14 @@
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\bin\Debug\Chess.Project.sharp.exe.config
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\bin\Debug\Chess.Project.sharp.exe
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\bin\Debug\Chess.Project.sharp.pdb
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.csproj.AssemblyReference.cache
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.Form1.resources
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.Properties.Resources.resources
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.csproj.GenerateResource.cache
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.exe
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.pdb
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.Form2.resources
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.Form3.resources
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.exe.config
+C:\Users\karim\source\repos\Chess.Project.sharp\Chess.Project.sharp\obj\Debug\Chess.Project.sharp.CustomGame.resources
